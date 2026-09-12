@@ -50,13 +50,17 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/chonigomez">
-    <img src="https://github-readme-stats.vercel.app/api?username=chonigomez&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de chonigomez" />
-  </a>
-  <a href="https://github.com/chonigomez">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonigomez&layout=compact&theme=tokyonight&locale=es" alt="Top Lenguajes" />
-  </a>
-</p>
+*   **Sistema de Optimización de Recursos (Tesis de Ingeniería)** | *Python, Algoritmos Genéticos (AG), Optimizacion de Colonia de Hormigas (OCH)* - [Ver Proyecto](https://github.com/ChoniGomez/TFC-Gomez-Onufrijczuk)
+    - Desarrollo de modelo híbrido basado en inteligencia artificial (metaheurísticas) para la asignación óptima de horarios y recursos institucionales.
+*   **GuaraSoft - Sistema de Gestión de Postventa Automotriz** | *Java, JPA, PostgreSQL* - [Ver Proyecto](https://github.com/ChoniGomez/GuaraSoft)
+    - Desarrollo backend corporativo para el seguimiento de vehículos, mantenimientos y clientes mediante mapeo objeto-relacional (ORM).
+*   **Modelos de Machine Learning y Visión Artificial** | *Python, OpenCV, YOLO* - [Ver Proyecto](https://github.com/ChoniGomez/Python-con-IA)
+    - Implementación de algoritmos de inteligencia artificial para la detección de objetos en tiempo real y clasificación heurística de datos.
+*   **Rey del Queso - Web App SPA en Tiempo Real** | *Vue.js, Firebase* - [Ver Proyecto](https://github.com/ChoniGomez/reyDelQueso)
+    - Desarrollo frontend reactivo y escalable con integración de Backend-as-a-Service para gestión de datos y autenticación instantánea.
+*   **Supermercado SOOPER - Plataforma POS y Backend** | *Java, Spring Boot, MySQL* - [Ver Proyecto](https://github.com/ChoniGomez/Supermercado-SOOPER)
+    - Creación de una solución integral de punto de venta y control de inventario utilizando el ecosistema Spring.
+*   **Plataforma Web Fullstack MEAN** | *AngularJS, Node.js, MongoDB* - [Ver Proyecto](https://github.com/ChoniGomez/AngularJS-pr-ctico-Web-app-con-NodeJS-y-MongoDB)
+    - Aplicación end-to-end asíncrona demostrando dominio del ciclo de vida de los datos mediante JavaScript en cliente y servidor.
