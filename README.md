@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Jonathan Matias Gomez 👋</h1>
+<h1 align="center"><b>¡Hola! Soy Jonathan Matias Gomez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Ingeniero en Informática | Desarrollador de Software</h3>
 
@@ -49,6 +49,10 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github.readme-stats.vercel.app/api?username=chonigomez&show_icons=true&theme=tokyonight" alt="Estadísticas de chonigomez" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonigomez&layout=compact&theme=tokyonight" alt="Top Lenguajes" height="150" />
+  <a href="https://github.com/chonigomez">
+    <img src="https://github-readme-stats.vercel.app/api?username=chonigomez&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de chonigomez" />
+  </a>
+  <a href="https://github.com/chonigomez">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonigomez&layout=compact&theme=tokyonight&locale=es" alt="Top Lenguajes" />
+  </a>
 </p>
