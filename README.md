@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 **Ingeniero en Informática**, graduado de la *Universidad Gastón Dachary*.
-- 💼 Actualmente me desempeño enfocándome en el **Desarrollo de Software** y diseño de sistemas internos en la *Escuela de Robótica de Misiones*, además de ejercer como evaluador en el *Instituto INCADE*.
+- 💼 Actualmente me desempeño enfocándome en el **Desarrollo de Software** y diseño de sistemas internos en la *Escuela de Robótica de Misiones*.
 - 🤖 Especializado en la programación de sistemas integrados con Inteligencia Artificial (Visión artificial, YOLO, OpenCV) y el desarrollo de aplicaciones.
 - 📚 Cuento con sólidas formaciones enfocadas en el ecosistema de desarrollo, abarcando tecnologías como Java, Python, Spring Boot, Node.js y bases de datos NoSQL como MongoDB.
 - 📫 Puedes contactarme a través de mi **[LinkedIn](https://www.linkedin.com/in/jonathanmgomez)** o enviando un correo a **ing.gomezjonathan@gmail.com**.
