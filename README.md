@@ -64,3 +64,7 @@
     - Creación de una solución integral de punto de venta y control de inventario utilizando el ecosistema Spring.
 *   **Plataforma Web Fullstack MEAN** | *AngularJS, Node.js, MongoDB* - [Ver Proyecto](https://github.com/ChoniGomez/AngularJS-pr-ctico-Web-app-con-NodeJS-y-MongoDB)
     - Aplicación end-to-end asíncrona demostrando dominio del ciclo de vida de los datos mediante JavaScript en cliente y servidor.
+*   **Proyecto Web - Sistema Integral de Control de Stock** | *Vanilla JS, PHP, MySQL* - [Ver Proyecto](https://github.com/ChoniGomez/Proyecto-Web)
+    - Desarrollo full-stack clásico enfocado en la manipulación dinámica del DOM, operaciones CRUD asíncronas y lógica de negocio desde el servidor.
+*   **Buscador Cinematográfico MVC** | *PHP, CodeIgniter* - [Ver Proyecto](https://github.com/ChoniGomez/TallerWeb)
+    - Arquitectura Modelo-Vista-Controlador para el consumo dinámico y renderizado de una API RESTful externa.
